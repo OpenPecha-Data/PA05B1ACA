@@ -1,0 +1,63 @@
+id: PA05B1ACA
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 1,11: Pāṇḍulohitakavastu'
+  language: bo
+  volumes:
+    7b4e1b144cb447d5a3d48e27de77dfdf:
+      title: 'Ariṣṭa: apratiniḥsṛṣṭe pāpake dṛṣṭigata utkṣepaṇīyaṃ karma'
+      base_file: 'Ariṣṭa: apratiniḥsṛṣṭe pāpake dṛṣṭigata utkṣepaṇīyaṃ karma.txt'
+      work_id: WB380F963
+    28a7221398c94072b67425adc079bc73:
+      title: 'Aśvaka & Punarvasaka: pravāsanīyaṃ karma'
+      base_file: 'Aśvaka & Punarvasaka: pravāsanīyaṃ karma.txt'
+      work_id: WFCDFBA22
+    3294f545b157442bba4051cb761d4059:
+      title: 'Chanda: 1. āpatter adarśanāyotkṣepaṇīyaṃ karma, 2. āpatter apratikarmāyotkṣepaṇīyaṃ
+        karma'
+      base_file: 'Chanda: 1. āpatter adarśanāyotkṣepaṇīyaṃ karma, 2. āpatter apratikarmāyotkṣepaṇīyaṃ
+        karma.txt'
+      work_id: W3ECF32AF
+    383e1c81c9ef458086a7e8d1714b45f7:
+      title: Pratikriyāvastūddāna
+      base_file: Pratikriyāvastūddāna.txt
+      work_id: WACC0AD4A
+    289a7e5ba46a42a7b12407e0786cee16:
+      title: 'Pāṇḍulohitaka: tarjanīyaṃ karma'
+      base_file: 'Pāṇḍulohitaka: tarjanīyaṃ karma.txt'
+      work_id: W34F86826
+    fb14be459dfc4c07a30507ccbb9106e2:
+      title: Pāṇḍulohitakavastūddāna
+      base_file: Pāṇḍulohitakavastūddāna.txt
+      work_id: WFA0CC5EE
+    8179286453d04f68a4e498201fc075f2:
+      title: 'Udayin: mānāpya'
+      base_file: 'Udayin: mānāpya.txt'
+      work_id: W82B5775B
+    a5b08d789c1b4f958d0a37052e462bc4:
+      title: 'Udayin: mūlaparivāsa'
+      base_file: 'Udayin: mūlaparivāsa.txt'
+      work_id: W4DF99348
+    c88ede58c9574fee8ded90dee77b9427:
+      title: 'Udayin: mūlāpakaṛṣa'
+      base_file: 'Udayin: mūlāpakaṛṣa.txt'
+      work_id: W51C79C0B
+    4cc47cd3e6b84d77b938cce45f9cac4e:
+      title: 'Udayin: parivāsa'
+      base_file: 'Udayin: parivāsa.txt'
+      work_id: W18A3F522
+    83acc4c8270f4275ae88fb0ce0a6a5a5:
+      title: 'Udayin: āvarhaṇa'
+      base_file: 'Udayin: āvarhaṇa.txt'
+      work_id: WA920C69D
+    17c5cd43d58d4de9939c33810ddf5aab:
+      title: 'Uttara: pratisaṃharanīyaṃ karma'
+      base_file: 'Uttara: pratisaṃharanīyaṃ karma.txt'
+      work_id: W624B7728
+    c0067d4020a34b5d9a8b9afde4ec6fca:
+      title: 'Śreyaka: nigarhanīyaṃ karma'
+      base_file: 'Śreyaka: nigarhanīyaṃ karma.txt'
+      work_id: WEECFE8B1
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:19:42.488196'
+last_modified_at: '2022-03-01T22:19:42.488204'

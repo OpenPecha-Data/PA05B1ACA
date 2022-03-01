@@ -1,0 +1,83 @@
+id: def2b4ae5c154c7abe4d01e448aac3f3
+annotation_type: index
+revision: '00001'
+annotations:
+  40c60333a61f4980ab2795c6455dd022:
+    work_id: WB380F963
+    span:
+      vol: 'Ariṣṭa: apratiniḥsṛṣṭe pāpake dṛṣṭigata utkṣepaṇīyaṃ karma'
+      start: 0
+      end: 4630
+  1c99b5e13dc549ebb8325505c03e0ed0:
+    work_id: WFCDFBA22
+    span:
+      vol: 'Aśvaka & Punarvasaka: pravāsanīyaṃ karma'
+      start: 0
+      end: 5466
+  67f1270f5cef47bbb58892ff4721f1d7:
+    work_id: W3ECF32AF
+    span:
+      vol: 'Chanda: 1. āpatter adarśanāyotkṣepaṇīyaṃ karma, 2. āpatter apratikarmāyotkṣepaṇīyaṃ
+        karma'
+      start: 0
+      end: 3246
+  6a711bf949dc41449ed78076c6353be8:
+    work_id: WACC0AD4A
+    span:
+      vol: Pratikriyāvastūddāna
+      start: 0
+      end: 223
+  e97ad414b27a45049684a359f640eec3:
+    work_id: W34F86826
+    span:
+      vol: 'Pāṇḍulohitaka: tarjanīyaṃ karma'
+      start: 0
+      end: 11359
+  30690dca1afe4f088270482c0d60abfb:
+    work_id: WFA0CC5EE
+    span:
+      vol: Pāṇḍulohitakavastūddāna
+      start: 0
+      end: 295
+  632adfaa9f7d4998a43132152efc737d:
+    work_id: W82B5775B
+    span:
+      vol: 'Udayin: mānāpya'
+      start: 0
+      end: 10502
+  b9d4f05a4b5f49378844c901f29f2d2d:
+    work_id: W4DF99348
+    span:
+      vol: 'Udayin: mūlaparivāsa'
+      start: 0
+      end: 5047
+  06e1b15001f04bb2a648f16b23cc65d5:
+    work_id: W51C79C0B
+    span:
+      vol: 'Udayin: mūlāpakaṛṣa'
+      start: 0
+      end: 6853
+  ac97e9431d7a4281b8ec18ee1b563e4a:
+    work_id: W18A3F522
+    span:
+      vol: 'Udayin: parivāsa'
+      start: 0
+      end: 3724
+  17b75fd4d4d24424ae9e21aee1d32cd9:
+    work_id: WA920C69D
+    span:
+      vol: 'Udayin: āvarhaṇa'
+      start: 0
+      end: 19595
+  64561cede5364d588be9d25bf0f5e38c:
+    work_id: W624B7728
+    span:
+      vol: 'Uttara: pratisaṃharanīyaṃ karma'
+      start: 0
+      end: 15054
+  9adfb57560e341fc9ed74bdb4febe02d:
+    work_id: WEECFE8B1
+    span:
+      vol: 'Śreyaka: nigarhanīyaṃ karma'
+      start: 0
+      end: 7798

@@ -1,0 +1,99 @@
+id: 22476bc1d7ce431f938926205344116d
+annotation_type: Segment
+revision: '00001'
+annotations:
+  ec0bc6965b5b4c3b9116eaed522c5617:
+    span:
+      start: 0
+      end: 1701
+    metadata: {}
+  40340c33abc94125bebb0db2aabcfc23:
+    span:
+      start: 1704
+      end: 3282
+    metadata: {}
+  cad4a7548460495eb7211d1cff4ad5d3:
+    span:
+      start: 3285
+      end: 5316
+    metadata: {}
+  a0cedd3fcaf240f9acd28439e8996c40:
+    span:
+      start: 5319
+      end: 6282
+    metadata: {}
+  70be1757ce2b4f148f17554dd02b7abd:
+    span:
+      start: 6285
+      end: 7387
+    metadata: {}
+  16acd88913c94149b1bdac8b61b3b897:
+    span:
+      start: 7390
+      end: 8498
+    metadata: {}
+  71cda1103a574d5d8af42a1566e30a24:
+    span:
+      start: 8501
+      end: 8878
+    metadata: {}
+  4ab442493cb345978ddefb07e05ec4e3:
+    span:
+      start: 8881
+      end: 9226
+    metadata: {}
+  7e79e3ae162446789eaf6fcda38a7e94:
+    span:
+      start: 9229
+      end: 10002
+    metadata: {}
+  3751f46976b04c84a53aaa7c5c2adca3:
+    span:
+      start: 10005
+      end: 10748
+    metadata: {}
+  00264d2daa6f4412be48e3a882553463:
+    span:
+      start: 10751
+      end: 11222
+    metadata: {}
+  038942a0519e4b0d9606bd47f51ddfe3:
+    span:
+      start: 11225
+      end: 11995
+    metadata: {}
+  90fd673f108644c4a90599361a86a718:
+    span:
+      start: 11998
+      end: 12551
+    metadata: {}
+  7d9d1a77be4240afbf70017aac1be172:
+    span:
+      start: 12554
+      end: 13023
+    metadata: {}
+  0124a0fcfa6e4d6ca1c28d85483ea4d5:
+    span:
+      start: 13026
+      end: 13985
+    metadata: {}
+  960ec9184d9e47e89a038b4406fb0157:
+    span:
+      start: 13988
+      end: 14639
+    metadata: {}
+  8940462c1b23406680c8ed01f21acb4d:
+    span:
+      start: 14642
+      end: 14781
+    metadata: {}
+  3be27c8ca41041ec9054bad50d462240:
+    span:
+      start: 14784
+      end: 14910
+    metadata: {}
+  7aa0045564b749f1b99ca74b3d4c12a4:
+    span:
+      start: 14913
+      end: 15051
+    metadata: {}
